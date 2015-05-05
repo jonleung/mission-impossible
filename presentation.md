@@ -1,3 +1,18 @@
+## TODO
+- Attendance
+- Context Why Did We Learn Flask
+- Conclusion, Have Learned Enough To Build Your Own Projects
+- Draw
+- Teams as Rows
+	1. Registered Number
+	2. Posted Number
+	3. Responds From Number
+	4. Responds with Code
+
+
+## Open Tlk.io/abe
+
+
 ## M16 Login Successful
 
 
@@ -83,6 +98,10 @@ Pair up into teams and be assigned numbers.
 
 
 
+## What is what number?
+
+
+
 ### Step 1
 
 Please first signup for a new Twilio account to purchase a number on Twilio and post it to the bit.ly
@@ -106,14 +125,25 @@ Zip Code: 19096
 
 
 
+### Time Left Until Agents Checkin
+<iframe src="http://www.timer-tab.com"></iframe>
+
+
+
+## Let's signup together!
+
+
+
 ### Step 2
 
 Post the phone number `http://bit.ly/1zxWT7s` in the username of a comment.
 
 
 
-### Time Left Until Agents Checkin
-<iframe src="http://www.timer-tab.com"></iframe>
+
+
+
+
 
 
 
