@@ -14,7 +14,7 @@
 		- Pay with the credit card:
 		
 			```
-			Number: 3737-4327-3840-95936
+			Number: 374327384095936
 			CVV: 9263
 			Expiration: 10/21
 			Address: 250 Haverford Road, Wynnewood, PA
