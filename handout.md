@@ -11,15 +11,7 @@
 	
 		- UN-check "re-occuring payment" checkbox
 		
-		- Pay with the credit card:
-		
-			```
-			Number: 374327384095936
-			CVV: 9263
-			Expiration: 10/21
-			Address: 250 Haverford Road, Wynnewood, PA
-			Zip Code: 19096
-			```
+		- Pay with the credit card info provided to you
 
 ## Step 2
 
